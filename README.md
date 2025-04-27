@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Anubha Mittal</h1>
 <h3 align="center">A passionate Software developer from India</h3>
-
+<img align="right" alt="coding" width="400"src="https://res.cloudinary.com/practicaldev/image/fetch/s--O0u1bNHs--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://miro.medium.com/max/1400/0*PXf5ge7QCN9Ga_CL.gif">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/anubha4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="anubha4" height="30" width="40" /></a>
